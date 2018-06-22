@@ -1,0 +1,30 @@
+/CommonAssemblyInfo.cs.in/1.14/Tue Mar 24 09:43:14 2015//
+/HOWTO/1.15/Thu Jun 25 13:13:39 2015//
+/LICENSE/1.8/Mon May 19 12:43:29 2014//
+/THANKYOU/1.18/Thu Oct 15 11:33:01 2015//
+/THIRD_PARTY_README/1.3/Mon May 19 12:43:29 2014//
+/TRADEMARK/1.2/Mon May 19 12:43:29 2014//
+/ikvm.build/1.55/Wed May 21 14:17:51 2014//
+/ikvm.include/1.8/Wed Mar 20 09:10:21 2013//
+/ikvm9.sln/1.7/Thu Dec 13 10:11:17 2012//
+/ikvmc.8.csproj/1.22/Tue Jul  1 15:12:34 2014//
+D/awt////
+D/bin////
+D/bin-x64////
+D/bin-x86////
+D/classpath////
+D/debugger////
+D/ikvm////
+D/ikvmc////
+D/ikvmdoc////
+D/ikvmstub////
+D/japi////
+D/jvm////
+D/msbuild////
+D/native////
+D/nuget////
+D/openjdk////
+D/reflect////
+D/runtime////
+D/tools////
+D/website////

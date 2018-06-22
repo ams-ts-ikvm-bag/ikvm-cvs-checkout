@@ -1,0 +1,16 @@
+/Adler32.java///1400503420////
+/CRC32.java///1400503420////
+/ClassStubZipEntry.java///1361093726////
+/Deflater.java///1309934524////
+/DeflaterConstants.java///1187257983////
+/DeflaterEngine.java///1309934524////
+/DeflaterHuffman.java///1213175135////
+/DeflaterPending.java///1187257983////
+/Inflater.java///1280839134////
+/InflaterDynHeader.java///1213175138////
+/InflaterHuffmanTree.java///1300170252////
+/OutputWindow.java///1213175140////
+/PendingBuffer.java///1213175140////
+/StreamManipulator.java///1213175141////
+/ZipEntry.java///1400503420////
+/ZipFile.java///1400503420////
